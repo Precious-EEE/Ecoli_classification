@@ -1,0 +1,4 @@
+fastai==2.7.12
+fastcore==1.5.29
+streamlit==1.22.0
+altair<5
