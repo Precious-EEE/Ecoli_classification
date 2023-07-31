@@ -1,3 +1,5 @@
+import fastcore
+import fastai
 from fastcore.all import *
 from fastai.vision.all import *
 import streamlit as st
