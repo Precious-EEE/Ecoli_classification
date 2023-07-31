@@ -1,3 +1,4 @@
+!pip install fastcore
 from fastcore.all import *
 from fastai.vision.all import *
 import streamlit as st
