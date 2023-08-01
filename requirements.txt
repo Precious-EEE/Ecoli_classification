@@ -1,0 +1,4 @@
+fastai
+fastcore
+streamlit
+altair<5
