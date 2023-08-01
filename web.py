@@ -2,11 +2,6 @@ from fastcore.all import *
 from fastai.vision.all import *
 import streamlit as st
 
-import pathlib
-
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
-
 ## LOAD MODEl
 learn_inf = load_learner("export.pkl")
 ## CLASSIFIER
